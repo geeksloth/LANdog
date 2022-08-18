@@ -1,0 +1,17 @@
+{
+    "watchlist":[
+        {
+            "mac": "00:11:22:33:44:55",
+            "alias": "Some monitored device"
+        }
+    ],
+    "station_name":"Home 1",
+    "database": "db.json",
+    "network": "192.168.0.0/24",
+    "line_token": "line-token-goes-here",
+    "line_enable": false,
+    "interval": 30,
+    "dead_timeout": 60,
+    "dummy_scan": false,
+    "force_alert_reborn": true
+}

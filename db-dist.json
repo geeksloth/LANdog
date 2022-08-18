@@ -1,0 +1,16 @@
+[
+    {
+        "ip_address": "192.168.0.100",
+        "mac_address": "00:00:00:00:00:00",
+        "status": 1,
+        "timestamp": "1658159625",
+        "description": "unknown"
+    },
+    {
+        "ip_address": "192.168.0.104",
+        "mac_address": "00:00:00:00:00:00",
+        "timestamp": "1658219074",
+        "description": "Alive dummy device",
+        "status": 1
+    }
+]

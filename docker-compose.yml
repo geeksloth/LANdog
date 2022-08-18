@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  landog:
+    build: .
+    network_mode: "host"
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["python3", "main.py"]
